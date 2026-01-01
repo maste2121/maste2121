@@ -16,10 +16,13 @@
 
 ## 👨‍💻 About Me
 
-🎓 Software Engineering student with a strong interest in **modern web and mobile application development**  
-💻 Experienced with **React, JavaScript, and Tailwind CSS** for frontend development  
-📱 Building cross-platform mobile apps using **Flutter & Firebase**  
-🧠 I enjoy turning academic ideas into **practical, real-world projects**
+<p align="center">
+🎯 Passionate about turning ideas into **real-world web and mobile applications**.<br>
+💻 Skilled in **React, JavaScript, and Tailwind CSS** for interactive and responsive frontend.<br>
+📱 Building cross-platform mobile apps using **Flutter & Firebase**.<br>
+🧠 I thrive on solving complex problems and learning **modern technologies**.<br>
+🚀 Looking for **internship opportunities** to contribute and grow as a developer.
+</p>
 
 ---
 
