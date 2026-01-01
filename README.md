@@ -26,10 +26,25 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter,nodejs,express,mysql,firebase,git,github,java" />
+  <strong>Frontend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
----
+<p align="center">
+  <strong>Mobile</strong><br/>
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+<p align="center">
+  <strong>Backend & Database</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase" />
+</p>
+
+<p align="center">
+  <strong>Tools</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,java" />
+</p>
+
 
 ## 📂 Academic & Personal Projects
 
