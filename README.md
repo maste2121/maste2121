@@ -51,23 +51,32 @@
 
 ## 📂 Academic & Personal Projects
 
-🔹 **Church Donation Platform**  
-• React (Web) & Flutter (Mobile)  
-• Donation flow, admin dashboard, UI/UX design  
+<p align="center">
+🔹 <b>Church Donation Platform</b><br>
+• React (Web) & Flutter (Mobile)<br>
+• Donation flow, admin dashboard, UI/UX design
+</p>
 
-🔹 **Event Management System**  
-• JavaFX & MySQL  
-• User roles, event CRUD operations, reporting  
+<p align="center">
+🔹 <b>Event Management System</b><br>
+• JavaFX & MySQL<br>
+• User roles, event CRUD operations, reporting
+</p>
 
-🔹 **Scientific Calculator App**  
-• Flutter & Dart  
-• Advanced math functions with clean UI  
+<p align="center">
+🔹 <b>Scientific Calculator App</b><br>
+• Flutter & Dart<br>
+• Advanced math functions with clean UI
+</p>
 
-🔹 **Real-Time Chat Application**  
-• Flutter & Firebase  
-• Authentication, real-time messaging  
+<p align="center">
+🔹 <b>Real-Time Chat Application</b><br>
+• Flutter & Firebase<br>
+• Authentication, real-time messaging
+</p>
 
----
+<hr>
+
 
 ## 📈 GitHub Activity
 
