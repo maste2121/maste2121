@@ -82,7 +82,8 @@
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=maste2121&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maste2121
+
 </p>
 
 <p align="center">
