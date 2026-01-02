@@ -44,12 +44,11 @@
 </p>
 
 <p align="center">
-  <strong>Tools</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,java" />
+  <strong>Tools & Design</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,java,ps" />
 </p>
 
-
-
+---
 
 ## 📫 Contact & Links
 
@@ -57,12 +56,9 @@
   <a href="mailto:mastewalkihnet@gmail.com">
     <img src="https://img.shields.io/badge/Email-mastewalkihnet%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="www.linkedin.com/in/
-mastewal-kihnet-b0a50435a
-">
+  <a href="https://www.linkedin.com/in/mastewal-kihnet-b0a50435a">
     <img src="https://img.shields.io/badge/LinkedIn-Mastewal%20Kihnet-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
-
