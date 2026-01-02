@@ -88,16 +88,3 @@ mastewal-kihnet-b0a50435a
 
 ---
 
-<p align="center">
-  <em>
-    Learning by building, refining ideas into real-world solutions — one project at a time.
-  </em>
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:22c55e&height=120&section=footer"
-    alt="footer wave"
-  />
-</p>
-
