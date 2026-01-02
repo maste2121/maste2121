@@ -52,12 +52,6 @@
 ## 📂 Academic & Personal Projects
 
 <p align="center">
-🔹 <b>Church Donation Platform</b><br>
-• React (Web) & Flutter (Mobile)<br>
-• Donation flow, admin dashboard, UI/UX design
-</p>
-
-<p align="center">
 🔹 <b>Event Management System</b><br>
 • JavaFX & MySQL<br>
 • User roles, event CRUD operations, reporting
@@ -78,30 +72,16 @@
 <hr>
 
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maste2121
-
-</p>
-
-<p align="center">
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maste2121&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-
 
 ## 📫 Contact & Links
 
 <p align="center">
-  <a href="mailto:mekwannetknet@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mekwannetknet%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:mastewalkihnet@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mastewalkihnet%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/mastewal-kihnet">
+  <a href="www.linkedin.com/in/
+mastewal-kihnet-b0a50435a
+">
     <img src="https://img.shields.io/badge/LinkedIn-Mastewal%20Kihnet-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -109,9 +89,15 @@
 ---
 
 <p align="center">
-  <em>“Learning by building. Improving with every project.”</em>
+  <em>
+    Learning by building, refining ideas into real-world solutions — one project at a time.
+  </em>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:22c55e&height=120&section=footer"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:22c55e&height=120&section=footer"
+    alt="footer wave"
+  />
 </p>
+
