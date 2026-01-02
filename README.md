@@ -49,28 +49,6 @@
 </p>
 
 
-## 📂 Academic & Personal Projects
-
-<p align="center">
-🔹 <b>Event Management System</b><br>
-• JavaFX & MySQL<br>
-• User roles, event CRUD operations, reporting
-</p>
-
-<p align="center">
-🔹 <b>Scientific Calculator App</b><br>
-• Flutter & Dart<br>
-• Advanced math functions with clean UI
-</p>
-
-<p align="center">
-🔹 <b>Real-Time Chat Application</b><br>
-• Flutter & Firebase<br>
-• Authentication, real-time messaging
-</p>
-
-<hr>
-
 
 
 ## 📫 Contact & Links
