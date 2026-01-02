@@ -17,11 +17,11 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-🎯 Passionate about turning ideas into <br>**real-world web and mobile applications**.<br>
-💻 Skilled in **React, JavaScript, and <br> Tailwind CSS** for interactive and responsive frontend.<br>
-📱 Building cross-platform mobile apps using <br> **Flutter & Firebase**.<br>
-🧠 I thrive on solving complex problems and <br> learning **modern technologies**.<br>
-🚀 Looking for **internship opportunities** <br> to contribute and grow as a developer.
+🎯 Passionate about turning ideas into <br>real-world web and mobile applications.<br>
+💻 Skilled in React, JavaScript, and <br> Tailwind CSS for interactive and responsive frontend.<br>
+📱 Building cross-platform mobile apps using <br> Flutter & Firebase.<br>
+🧠 I thrive on solving complex problems and <br> learning modern technologies.<br>
+🚀 Looking for internship opportunities <br> to contribute and grow as a developer.
 </p>
 
 ---
